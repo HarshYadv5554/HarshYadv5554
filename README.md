@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-Hi there! 👋<br>I am a student at IIIT Nagpur, pursuing Electronics and Communication Engineering (ECE) with  IoT. I have a keen interest in web development, data structures & algorithms (DSA) , and electronics.<br><br>🔹 Skills & Interests:<br><br>Web Development: Building responsive and interactive applications<br>DSA in C++: Problem-solving and optimizing algorithms<br>IoT: Connecting the physical and digital worlds<br><br>💡 I am always eager to learn new technologies and collaborate on innovative ideas
+ 👋<br>I am a student at IIIT Nagpur, pursuing Electronics and Communication Engineering (ECE) with  IoT. I have a keen interest in web development, data structures & algorithms (DSA) , and electronics.<br><br>🔹 Skills & Interests:<br><br>Web Development: Building responsive and interactive applications<br>DSA in C++: Problem-solving and optimizing algorithms<br>IoT: Connecting the physical and digital worlds<br><br>💡 I am always eager to learn new technologies and collaborate on innovative ideas
 
 
 ## 🌐 Socials:
